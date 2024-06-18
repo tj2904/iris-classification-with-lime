@@ -1,4 +1,4 @@
-# An exploration of the Iris dataset using two algorithms.#
+# An exploration of the Iris dataset using two algorithms.
 
 ### Introduction
 Using the Iris dataset and two algorithms, k-means clustering and logistic regression 
