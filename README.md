@@ -78,6 +78,7 @@ By passing the data and the model into the Lime explainer we are presented with
 values that indicate which of the possible factors (in this small dataset that is all of the 
 features) have an impact on the classification, and in which regard they influence that 
 classification, and in which direction.
+
 ![image](https://github.com/tj2904/iris-kmeans-logistic/assets/3164936/05fda213-0cf3-43c0-a809-05f556d6b533)
 
 ### DISCUSSION OF THE RESULTS
